@@ -195,7 +195,7 @@ height:20px;
   
 
     <div class="footer">
-      <p>Copyright © 2023 Banking App. All rights reserved to Digit Insurance.</p>
+      <p>Copyright Â© 2023 Banking App. All rights reserved to @rajreeshu.</p>
     </div>
   </div>
 </body>
